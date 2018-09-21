@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 21 11:36:24 CST 2018
+taobaosdk-1.0.0.jar>=
+taobaosdk-1.0.0.pom>=

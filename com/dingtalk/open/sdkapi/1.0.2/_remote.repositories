@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 21 11:02:15 CST 2018
+sdkapi-1.0.2.jar>=
+sdkapi-1.0.2.pom>=
